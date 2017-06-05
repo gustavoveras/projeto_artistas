@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="@string/mapa" />
+        <item
+            android:id="@+id/nav_artistas"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/Artistas" />
+        <item
+            android:id="@+id/nav_favoritos"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/aba_favoritos" />
+
+    </group>
+
+    <item android:title="@string/general">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/sign_out"
+                    android:icon="@drawable/ic_account_box_black_24dp"
+                    android:title="@string/logout" />
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Arteson</string>
+    <string name="aba_pessoas">Artistas</string>
+    <string name="aba_favoritos">Favoritos</string>
+    <string name="aba_melhor_avaliados">Melhor Avaliados</string>
+    <string name="detalhe_pessoa">Detalhes do artista</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="falha_conexao">Sem conexão no momento.</string>
+    <string name="sem_conteudo">Sem conteúdo para exibir no momento.</string>
+    <string name="action_sign_in_short">Logar</string>
+    <string name="clouser">Próximos</string>
+    <string name="error_field_required">Esse campo é obrigatório</string>
+    <string name="error_incorrect_password">Senha Incorreta</string>
+    <string name="error_invalid_email">O email está invalido</string>
+    <string name="error_invalid_password">Senha Invalida</string>
+    <string name="prompt_password">Senha</string>
+    <string name="error_incorrect_email">Email incorreto</string>
+    <string name="sem_conteudo_obra">Sem conteúdo para exibir no momento.</string>
+    <string name="title_activity_login">Logar</string>
+    <string name="action_sign_in">Logar</string>
+    <string name="general">Geral</string>
+    <string name="logout">logout</string>
+    <string name="navigation_drawer_close">Fechar Navegação</string>
+    <string name="navigation_drawer_open">Abrir Navegação</string>
+    <string name="Artistas">Artistas</string>
+    <string name="Artista">Artista</string>
+    <string name="Subject">Dúvidas sobre suas Obras</string>
+    <string name="img_dec">Imagem da obra</string>
+    <string name="Email">Escolha por onde você irá enviar o email: </string>
+</resources>

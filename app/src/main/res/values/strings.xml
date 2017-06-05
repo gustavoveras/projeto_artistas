@@ -1,3 +1,40 @@
 <resources>
-    <string name="app_name">projeto_artistas</string>
+    <string name="app_name">ArtesOn</string>
+    <string name="aba_pessoas">Artists</string>
+    <string name="aba_favoritos">Favorites</string>
+    <string name="aba_melhor_avaliados">Better Rated</string>
+    <string name="detalhe_pessoa">Details of the artists</string>
+    <string name="compartilhar">Share</string>
+    <string name="falha_conexao">Without connection at this moment.</string>
+    <string name="sem_conteudo">Without content to show at this moment.</string>
+    <string name="json_find">{\"pessoas\":{</string>
+    <string name="json_replace">{\"pessoas\":[</string>
+    <string name="sem_conteudo_obra">Without content to show at this moment.</string>
+    <string name="clouser">Proximos</string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string name="mapa">Mapa</string>
+    <string name="Artistas">Artists</string>
+    <string name="Artista">Artist</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_email">This email is incorrect</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="general">General</string>
+    <string name="logout">logout</string>
+    <string name="img_dec">Imagem da obra</string>
+    <string name="Subject">Questions about your Work</string>
+    <string name="Email">Choose your Email Client: </string>
+
 </resources>
